@@ -1,10 +1,10 @@
-package it.sirfin.it.sirfin;
+package it.sirfin.scuolajpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class ScuolajpaApplicationTests {
 
 	@Test
 	void contextLoads() {
