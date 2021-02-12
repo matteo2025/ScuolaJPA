@@ -1,4 +1,4 @@
-package is.sirfin.scuolajpa.controller;
+package it.sirfin.scuolajpa.controller;
 
 import it.sirfin.scuolajpa.model.Docente;
 import org.springframework.beans.factory.annotation.Autowired;
